@@ -1,5 +1,3 @@
-This is a machine learning library developed by Maxwell Gesteland for CS5350/6350 in University of Utah
-
 DecisionTree Instructions to run: 
 -create "car" and "bank" folders in the DecisionTree folder,
 or extract the zips and move the folders from the zips into the DecisionTree project
@@ -12,7 +10,3 @@ train.csv as the run.sh file uses paths of format "car/train.csv"
 -Outputs are printed for the car first on different metrics,
 Then the bank on its different metrics/ top of bank is labeled "bank"
 -Note: I did not do the very last part of the programming section (b) of number 3 in the programming section 
-
-
-For Ensemble Learning and Linear Regression their associated read me's and info are in README.md files within
-their individual folders.
