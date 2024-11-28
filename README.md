@@ -14,5 +14,6 @@ Then the bank on its different metrics/ top of bank is labeled "bank"
 -Note: I did not do the very last part of the programming section (b) of number 3 in the programming section 
 
 
-For Ensemble Learning and Linear Regression their associated read me's and info are in README.md files within
+For all other libraries, their associated read me's and info are in README.md files within
 their individual folders.
+

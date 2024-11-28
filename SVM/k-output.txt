@@ -1,0 +1,45 @@
+C=100/873, gamma=0.1 Training error rate: 0.061
+Test error rate: 0.392 
+
+C=500/873, gamma=0.1 Training error rate: 0.000
+Test error rate: 0.214 
+
+C=700/873, gamma=0.1 Training error rate: 0.000
+Test error rate: 0.182 
+
+C=100/873, gamma=0.5 Training error rate: 0.000
+Test error rate: 0.090 
+
+C=500/873, gamma=0.5 Training error rate: 0.000
+Test error rate: 0.014 
+
+C=700/873, gamma=0.5 Training error rate: 0.000
+Test error rate: 0.010 
+
+C=100/873, gamma=1 Training error rate: 0.000
+Test error rate: 0.022 
+
+C=500/873, gamma=1 Training error rate: 0.000
+Test error rate: 0.004 
+
+C=700/873, gamma=1 Training error rate: 0.000
+Test error rate: 0.004 
+
+C=100/873, gamma=5 Training error rate: 0.003
+Test error rate: 0.004 
+
+C=500/873, gamma=5 Training error rate: 0.000
+Test error rate: 0.000 
+
+C=700/873, gamma=5 Training error rate: 0.000
+Test error rate: 0.000 
+
+C=100/873, gamma=100 Training error rate: 0.014
+Test error rate: 0.008 
+
+C=500/873, gamma=100 Training error rate: 0.003
+Test error rate: 0.004 
+
+C=700/873, gamma=100 Training error rate: 0.003
+Test error rate: 0.004 
+

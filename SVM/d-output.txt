@@ -1,0 +1,19 @@
+Running SVM Dual
+C=100/873
+Learned weights: [-0.94293398 -0.65144094 -0.73367284 -0.04098255]
+Learned bias: 1.4042971482961508
+Training error rate: 0.011
+Test error rate: 0.012 
+
+C=500/873
+Learned weights: [-1.56393922 -1.01405221 -1.18065124 -0.15651726]
+Learned bias: 1.8245055771062386
+Training error rate: 0.008
+Test error rate: 0.008 
+
+C=700/873
+Learned weights: [-2.04262431 -1.28014284 -1.5132929  -0.24836552]
+Learned bias: 2.0449102282706413
+Training error rate: 0.009
+Test error rate: 0.010 
+
