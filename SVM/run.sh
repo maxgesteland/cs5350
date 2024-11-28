@@ -29,7 +29,6 @@ done
 
 
 
-# Now, run SVM Dual
 echo "Running SVM Dual" >> dual-output.txt
 
 for C_expr in "${C_values[@]}"
